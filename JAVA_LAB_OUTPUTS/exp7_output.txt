@@ -1,0 +1,6 @@
+Simple Calculator
+Input: 10 + 5
+Result: 15
+
+Input: 10 / 2
+Result: 5.0

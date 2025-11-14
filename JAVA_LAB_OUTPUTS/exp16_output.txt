@@ -1,0 +1,7 @@
+Applet Outputs:
+
+a) Geometric Figures:
+Displays rectangle, circle, line, and rectangle in colors (red, blue, green, magenta).
+
+b) Human Face:
+Displays face with eyes, nose, and smiling mouth drawn using ovals and arcs.

@@ -1,0 +1,3 @@
+Array: [3, 7, 2, 9, 5]
+Maximum = 9
+Minimum = 2

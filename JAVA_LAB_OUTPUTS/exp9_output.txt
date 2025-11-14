@@ -1,0 +1,6 @@
+String Operations:
+Original String: Hello World
+Uppercase: HELLO WORLD
+Lowercase: hello world
+Reversed: dlroW olleH
+Length: 11

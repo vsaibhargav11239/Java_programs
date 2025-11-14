@@ -1,0 +1,5 @@
+Single Inheritance Example:
+Name: Alice
+Roll No: 101
+Marks: 90
+Grade: A

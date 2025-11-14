@@ -1,0 +1,5 @@
+Output:
+Name: John
+Roll Number: 101
+Marks: 85
+Grade: A

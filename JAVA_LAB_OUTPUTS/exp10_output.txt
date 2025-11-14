@@ -1,0 +1,5 @@
+Exception Handling Example:
+Enter a number: 10
+Enter another number: 0
+Output: Cannot divide by zero!
+Program continues after exception handling.

@@ -1,0 +1,6 @@
+Server Output:
+Server started, waiting for client...
+Message from client: Hello Server, this is Client!
+
+Client Output:
+Message sent to Server successfully.
